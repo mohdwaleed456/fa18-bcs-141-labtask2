@@ -1,0 +1,29 @@
+body,
+html {
+  height: 100%;
+}
+
+.bg {
+  background: rgba(114, 40, 18, 0.253);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  text-decoration: underline;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#addbtn {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background: #000;
+}
+
+.recclass {
+  border-bottom: 2px dashed black;
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
